@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Dogs-to-adopt/static/css/main.0c9d6931.chunk.css",
+    "main.js": "/Dogs-to-adopt/static/js/main.4a2097c0.chunk.js",
+    "main.js.map": "/Dogs-to-adopt/static/js/main.4a2097c0.chunk.js.map",
+    "runtime-main.js": "/Dogs-to-adopt/static/js/runtime-main.3b34bab4.js",
+    "runtime-main.js.map": "/Dogs-to-adopt/static/js/runtime-main.3b34bab4.js.map",
+    "static/js/2.00fb1d88.chunk.js": "/Dogs-to-adopt/static/js/2.00fb1d88.chunk.js",
+    "static/js/2.00fb1d88.chunk.js.map": "/Dogs-to-adopt/static/js/2.00fb1d88.chunk.js.map",
+    "index.html": "/Dogs-to-adopt/index.html",
+    "precache-manifest.9e43e9553034a78c90db4b534db60f8b.js": "/Dogs-to-adopt/precache-manifest.9e43e9553034a78c90db4b534db60f8b.js",
+    "service-worker.js": "/Dogs-to-adopt/service-worker.js",
+    "static/css/main.0c9d6931.chunk.css.map": "/Dogs-to-adopt/static/css/main.0c9d6931.chunk.css.map",
+    "static/js/2.00fb1d88.chunk.js.LICENSE.txt": "/Dogs-to-adopt/static/js/2.00fb1d88.chunk.js.LICENSE.txt",
+    "static/media/husky.jpg": "/Dogs-to-adopt/static/media/husky.ef6fa1e4.jpg",
+    "static/media/kundelek.jpg": "/Dogs-to-adopt/static/media/kundelek.d87bbdb1.jpg",
+    "static/media/kundelek2.jpg": "/Dogs-to-adopt/static/media/kundelek2.d045c3a8.jpg",
+    "static/media/logo.jpg": "/Dogs-to-adopt/static/media/logo.6ff8b6da.jpg",
+    "static/media/miniaturowy-sznaucer.jpg": "/Dogs-to-adopt/static/media/miniaturowy-sznaucer.86a8e304.jpg",
+    "static/media/owczarek.jpeg": "/Dogs-to-adopt/static/media/owczarek.99ccb978.jpeg",
+    "static/media/shiba.jpg": "/Dogs-to-adopt/static/media/shiba.bc979682.jpg",
+    "static/media/shiz-tzu.jpg": "/Dogs-to-adopt/static/media/shiz-tzu.8595a6cf.jpg",
+    "static/media/spaniel.jpg": "/Dogs-to-adopt/static/media/spaniel.b4f36f48.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b34bab4.js",
+    "static/js/2.00fb1d88.chunk.js",
+    "static/css/main.0c9d6931.chunk.css",
+    "static/js/main.4a2097c0.chunk.js"
+  ]
+}
