@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "450829c91e41804e935a7efd731f7199",
+    "revision": "a949955c22f2db760770fdc01989bd80",
     "url": "/Dogs-to-adopt/index.html"
   },
   {
-    "revision": "1ed1944feca86b1acd5d",
+    "revision": "7381cc9b4653d6ba3ead",
     "url": "/Dogs-to-adopt/static/css/main.0c9d6931.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dogs-to-adopt/static/js/2.00fb1d88.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ed1944feca86b1acd5d",
-    "url": "/Dogs-to-adopt/static/js/main.d982ef6b.chunk.js"
+    "revision": "7381cc9b4653d6ba3ead",
+    "url": "/Dogs-to-adopt/static/js/main.715d4e90.chunk.js"
   },
   {
     "revision": "1da6f7443f64b319cd7f",
